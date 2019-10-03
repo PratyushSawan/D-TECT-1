@@ -1,5 +1,6 @@
 # D-TECT
 D-TECT - Pentest the Modern Web
+
 Note:-ONLY FOR WORDPRESS SITE
 
 Author: [Shawar Khan] (https://shawarkhan.com/about/)
